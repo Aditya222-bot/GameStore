@@ -1,2 +1,2 @@
 # GameStore
-Nothing
+CopyRight . Aditya Bot 
